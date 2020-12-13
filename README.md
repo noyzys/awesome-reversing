@@ -269,10 +269,10 @@ A curated list of awesome reversing resources
 
 ## Reverse engineering is a big topic, so we also divide it into several specialties:
 
-- [Software Reverse Engineering](#software-reverse-engineering-(sre))
-- [Hardware Reverse Engineering](#hardware-reverse-engineering-(hre))
-- [Format Reverse Engineering](#format-reverse-engineering-(dfre))
-- [Database Reverse Engineering](#database-reverse-engineering-(dbre))
+- [Software Reverse Engineering](#Software Reverse Engineering (SRE))
+- [Hardware Reverse Engineering](#Hardware Reverse Engineering (HRE))
+- [Format Reverse Engineering](#Data Format Reverse Engineering (DFRE))
+- [Database Reverse Engineering](#Database Reverse Engineering (DBRE))
 
 ## Software Reverse Engineering (SRE)
 

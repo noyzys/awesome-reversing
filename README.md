@@ -269,12 +269,12 @@ A curated list of awesome reversing resources
 
 ## Reverse engineering is a big topic, so we also divide it into several specialties:
 
-- [Software Reverse Engineering](#Software Reverse Engineering (SRE))
-- [Hardware Reverse Engineering](#Hardware Reverse Engineering (HRE))
-- [Format Reverse Engineering](#Data Format Reverse Engineering (DFRE))
-- [Database Reverse Engineering](#Database Reverse Engineering (DBRE))
+- [Software Reverse Engineering (SRE)](#software-reverse-engineering)
+- [Hardware Reverse Engineering (HRE)](#hardware-reverse-engineering)
+- [Data Format Reverse Engineering (DFRE)](#data-format-reverse-engineering)
+- [Database Reverse Engineering (DBRE)](#database-reverse-engineering)
 
-## Software Reverse Engineering (SRE)
+## Software Reverse Engineering 
 
 in short: Software Reverse Engineering focus on code, related data, and architecture which build a complete software,
 In most case, the target of Software Reversing is code in compiled form (native or intermediate), either executable or libraries.
@@ -790,7 +790,7 @@ See also [Data & Format Reversing](_format.md).
 
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts)
 
-## Hardware Reverse Engineering (HRE)
+## Hardware Reverse Engineering 
 
 in short: Hardware Reverse Engineering focus on circuitry (boards, ICs) and intercomponent relation.
 
@@ -1174,7 +1174,7 @@ This protocol used for communication between modules or external system.
 * [uC/os](https://www.micrium.com/rtos/kernels/) - µC/OS-II and µC/OS-III are preemptive, highly portable, and scalable real-time kernels. You can test them out for free, but you must pay to put them into a product.
 * [TI-RTOS](www.ti.com/tool/ti-rtos) - A real-time operating system for TI microcontrollers, It Includes TCP/IP and USB stacks, a FAT file system, and device drivers, Most of the TI-RTOS components are released under the BSD License.
 
-## Data Format Reverse Engineering (DFRE)
+## Data Format Reverse Engineering 
 
 in short: Data Format Reverse Engineering focus on representation and interpretation of structured data in stored or transmitted form.
 
@@ -1243,7 +1243,7 @@ in short: Data Format Reverse Engineering focus on representation and interpreta
 * [DevXUnityUnpacker](http://devxdevelopment.com/UnityUnpacker)
 * [MultiEx Commander](http://multiex.xentax.com/) - multiple game resources archive.
 
-## Database Reverse Engineering (DBRE)
+## Database Reverse Engineering 
 
 * Database Reverse Engineering Resources*
 
